@@ -1,6 +1,6 @@
 ## About ParseWordDoc
 
-This application extracts images (inside tables) from Word documents in this order:
+This is a PHP (Laravel) project. This application extracts images (inside tables) from Word documents in this order:
 
 - Images in the left column are extracted first.
 - Then images in the right column are extracted last.
